@@ -13,7 +13,7 @@ AWS-Amazon Web Services
 - The higher you go in the abstraction levels, the more the cloud provider can add value and can off-load non-strategic activities from the consumer
 - To learn more, choose each numbered marker
 
-    [!alt-text](./images/AWS-1.PNG)
+    ![alt-text](./images/AWS-1.PNG)
 
 ### Cloud computing deployment models
 
@@ -25,4 +25,4 @@ AWS-Amazon Web Services
     2. Platform as a service (PaaS)
     3. Infrastructure as a service (IaaS)
 
-    [!alt-text](./images/AWS-2.PNG)
+    ![alt-text](./images/AWS-2.PNG)
