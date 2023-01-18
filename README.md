@@ -1,36 +1,44 @@
-# AWS-Cloud-Computing
+# Improve Code Quality with Amazon CloudGuru Reviewer
 
-AWS-Amazon Web Services
+- Improve the quality of your code and strengthen your current DevOps practices by using Amazon CodeGuru Reviewer
+- Integrate CodeGuru Reviewer into development workflows to enhance code reviews with automated feedback 
+- Associate existing code repositories on GitHub and ![AWS CodeCommit](https://aws.amazon.com/codecommit/) with ![Amazon CodeGuru](https://aws.amazon.com/codeguru/).
 
-### What is Cloud Computing?
 
-- Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing
-- Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services on an as-needed basis
 
-### Trends in computing evolution
+### Code Guru
 
-- The following visual depicts trends in computing evolution
-- The higher you go in the abstraction levels, the more the cloud provider can add value and can off-load non-strategic activities from the consumer
-- To learn more, choose each numbered marker
+- It is a machine learning service for automated code reviews and application performance recommendations.
+- It can maintain a high bar of coding standards in your software development process.
+- It is powered by machine learning, best practices, and lessons learned.
+- It uses machine learning trained against millions of code reviews and thousands of applications profiled on open-source and Amazon code projects.
+- It provides actionable recommendations for fixing identified issues.
+- It automatically inspects code for hard-to-find defects, and helps you find the most promising methods for optimization in your running application.
+- It helps avoid introducing issues that are difficult to detect, reproduce, and troubleshoot.
+- It also helps improve application performance and reliability, and reduces the time spent finding issues.
+- Its two components: CodeGuru Reviewer and CodeGuru Profiler
 
-    ![alt-text](./images/AWS-1.PNG)
 
-### Cloud computing deployment models
+### Code Reviewer
 
-- When someone refers to "the cloud" in the context of a shared or public cloud, they are referring to on-demand infrastructure provided by a vendor, such as AWS
+- Improves the Code quality.
+- It runs automated code reviews for static code analysis.
+- It uses machine learning and automated reasoning to identify critical issues and security vulnerabilities.
+- It also provides actionable recommendations you can use to improve code quality.
+- CodeGuru Reviewer, you can reduce the time to find difficult issues, such as:
+    - Race conditions
+    - Slow resource leaks
+    - Thread safety problems
+    - Unsanitized inputs
+    - Inappropriate handling of sensitive data
+    - Negative impacts on application performance
 
-- Organizations that use the public cloud might take advantage of further solutions provided by a cloud services provider, such as one or any combination of the following:
+### Code Profiler
 
-    1. Software as a service (SaaS)
-    2. Platform as a service (PaaS)
-    3. Infrastructure as a service (IaaS)
+- Monitors an application's performance in runtime and identifies expensive lines of codes
 
-    ![alt-text](./images/AWS-2.PNG)
 
-### Patterns among AWS customers
 
-- With respect to the path to cloud adoption, every customer travels a different path on their journey to the cloud
-- Many internal and external factors influence the decision-making process and determine where they start on their journey 
-- Adoptions are not always linear, and customers can be in any one of four different phases, sometimes at the same time
-- To review details about the path to cloud adoption, choose each numbered marker,
-    1. Develop and Test - The first phase involves either developing new applications or moving low-risk workloads
+
+
+
