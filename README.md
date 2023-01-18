@@ -2,7 +2,7 @@
 
 AWS-Amazon Web Services
 
-### What is cloud Computing?
+### What is Cloud Computing?
 
 - Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing
 - Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services on an as-needed basis
@@ -26,3 +26,11 @@ AWS-Amazon Web Services
     3. Infrastructure as a service (IaaS)
 
     ![alt-text](./images/AWS-2.PNG)
+
+### Patterns among AWS customers
+
+- With respect to the path to cloud adoption, every customer travels a different path on their journey to the cloud
+- Many internal and external factors influence the decision-making process and determine where they start on their journey 
+- Adoptions are not always linear, and customers can be in any one of four different phases, sometimes at the same time
+- To review details about the path to cloud adoption, choose each numbered marker,
+    1. Develop and Test - The first phase involves either developing new applications or moving low-risk workloads
